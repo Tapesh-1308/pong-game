@@ -1,5 +1,5 @@
 import turtle
-
+# i really like this pong game and the ai feature
 wn = turtle.Screen()
 wn.title("pong by @Tapesh")
 wn.bgcolor("black")
